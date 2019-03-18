@@ -1,0 +1,2 @@
+C:\Users\Venci\source\repos\exercise inheritance\exercise inheritance\obj\Debug\exercise inheritance.csprojAssemblyReference.cache
+C:\Users\Venci\source\repos\exercise inheritance\exercise inheritance\obj\Debug\exercise inheritance.csproj.CoreCompileInputs.cache
